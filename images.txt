@@ -1,3 +1,5 @@
 nginx
 #支持私库
-homeassistant/home-assistant:latest
+#homeassistant/home-assistant:latest
+homeassistant/aarch64-homeassistant:latest
+
