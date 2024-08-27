@@ -3,6 +3,6 @@ nginx
 #homeassistant/home-assistant:latest
 #homeassistant/aarch64-homeassistant:2024.9.0.dev202408200221
 
-xhofe/alist:latest
+homeassistant/aarch64-hassio-supervisor
 
 
