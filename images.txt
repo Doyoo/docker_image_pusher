@@ -7,6 +7,6 @@ nginx
 
 #--platform=linux/arm64 xhofe/alist:latest
 
-pixman/pixman
+--platform=linux/arm64 pixman/pixman
 
 
