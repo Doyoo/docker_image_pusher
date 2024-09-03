@@ -5,7 +5,8 @@ nginx
 
 #homeassistant/aarch64-hassio-supervisor
 
+#--platform=linux/arm64 xhofe/alist:latest
 
---platform=linux/arm64 xhofe/alist:latest
+pixman/pixman
 
 
