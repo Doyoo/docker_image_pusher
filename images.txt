@@ -4,8 +4,9 @@ nginx
 #homeassistant/aarch64-homeassistant:2024.9.0.dev202408200221
 
 #homeassistant/aarch64-hassio-supervisor
-#--platform=linux/arm64 xhofe/alist:v3.35.0
+--platform=linux/arm64 xhofe/alist:latest
+
 #--platform=linux/arm64 pixman/pixman
---platform=linux/arm64 homebridge/homebridge:latest
+#--platform=linux/arm64 homebridge/homebridge:latest
 
 
