@@ -10,6 +10,8 @@ nginx
 #--platform=linux/arm64 pixman/pixman
 #--platform=linux/arm64 homebridge/homebridge:latest
 
---platform=linux/arm64 hsuyelin/nas-tools:latest
+#--platform=linux/arm64 hsuyelin/nas-tools:latest
+
+--platform=linux/arm64 linuxserver/jackett
 
 
