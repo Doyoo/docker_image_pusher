@@ -14,6 +14,8 @@ nginx
 
 #--platform=linux/arm64 linuxserver/jackett
 
---platform=linux/arm64 superng6/qbittorrent:latest
+#--platform=linux/arm64 superng6/qbittorrent:latest
+
+--platform=linux/arm64 chisbread/transmission
 
 
