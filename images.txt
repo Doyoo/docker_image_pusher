@@ -1,6 +1,6 @@
 nginx
 #支持私库
-#homeassistant/home-assistant:latest
+homeassistant/home-assistant:latest
 #homeassistant/aarch64-homeassistant:2024.9.0.dev202408200221
 
 #homeassistant/aarch64-hassio-supervisor
@@ -16,6 +16,6 @@ nginx
 
 #--platform=linux/arm64 superng6/qbittorrent:latest
 
---platform=linux/arm64 chisbread/transmission
+#--platform=linux/arm64 chisbread/transmission
 
 
