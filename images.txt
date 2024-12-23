@@ -2,7 +2,7 @@ nginx
 #支持私库
 #homeassistant/home-assistant:latest
 
-homeassistant/aarch64-homeassistant:latest
+homeassistant/aarch64-homeassistant::2025.1.0.dev202412230231
 
 #homeassistant/aarch64-hassio-supervisor
 
