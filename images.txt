@@ -4,7 +4,7 @@ nginx
 
 #homeassistant/aarch64-homeassistant:2025.3.3
 
-johngong/qbittorrent:latest
+--platform=linux/arm64 johngong/qbittorrent:latest
 
 #homeassistant/aarch64-hassio-supervisor
 
