@@ -1,5 +1,5 @@
 nginx
 #支持私库
-#homeassistant/home-assistant:latest
 
+#homeassistant/home-assistant:latest
 --platform=linux/arm64 homebridge/homebridge:latest
